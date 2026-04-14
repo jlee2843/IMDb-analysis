@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 56426094-8d12-4d26-b2e6-c5997a6d4604
+  # title: Box Office & Star Power Analysis
+  authors: 
+    - name: Jenny Lee
+  toc:
+    - file: Exploration.ipynb
+      title: Exploration
+    - file: Analysis.ipynb
+      title: Analysis
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  title: Box Office & Star Power Analysis 
+  options:
+    logo_text: Box Office & Star Power Analysis 
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
