@@ -10,6 +10,8 @@ project:
       title: Exploration
     - file: Analysis.ipynb
       title: Analysis
+    - file: Presentation.ipynb
+      title: Presentation
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
